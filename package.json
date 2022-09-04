@@ -10,5 +10,8 @@
     "javaScript"
   ],
   "author": "Daniel Pinto danielandrespintoortega21212\u001bg\u001bd@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
