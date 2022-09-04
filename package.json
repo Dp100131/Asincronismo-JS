@@ -1,0 +1,14 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Daniel Pinto danielandrespintoortega21212\u001bg\u001bd@gmail.com",
+  "license": "MIT"
+}
